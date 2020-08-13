@@ -1,5 +1,13 @@
 # TrabalhoEngenhariaDeSoftware
-## Requisitos funcionais 
+## Apresentação 
+A apresentação final está arquivo Apresentação 03.pdf </br>
+## Modelagem
+A modelagem foi feita no Drawio do Google Drive e foi exportada em xml, e pode ser importada no próprio sistema </br>
+- No arquivo MVC está presente o diagrama de classes completo/br>
+- No arquivo Modelagem está presente: parte do diagrama de classes, os componentes e os diagramas de sequência</br> 
+
+## Requisitos
+### Requisitos funcionais 
 RF001 - O sistema pode ler arquivos de imagem de um diretório em lote ou de forma unitária </br>
 RF002 - Desenhar retângulo para marcação do objeto de interesse na imagem </br>
 RF003 - Selecionar o retângulo para realizar manipulação do retângulo </br>
@@ -27,7 +35,7 @@ RF024 - Poder editar uma classe. Caso haja erro de digitação, o usuário terá
 RF025 - Poder deletar uma classe. Caso uma das classes não esteja presente no novo lote de imagens, o usuário poderá apagar</br>
 RF026 - Permitir que o usuário possa escolher o diretório para salvar os arquivos de saída</br>
  
-## Requisitos Não funcionais
+### Requisitos Não funcionais
 RNF001 - Criar arquivos de saída dos tipos xml ou .txt  </br>
 RNF002 - Salvar automaticamente os retângulos de uma imagem ao passar para próxima imagem do lote</br>
 RNF003 - Mostrar os valores em RGB, Hsv e hexadecimal ao selecionar uma nova cor</br>

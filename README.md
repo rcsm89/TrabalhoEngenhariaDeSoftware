@@ -3,7 +3,7 @@
 A apresentação final está arquivo Apresentação 03.pdf </br>
 ## Modelagem
 A modelagem foi feita no Drawio do Google Drive e foi exportada em xml, e pode ser importada no próprio sistema </br>
-- No arquivo MVC está presente o diagrama de classes completo/br>
+- No arquivo MVc está presente o diagrama de classes completo/br>
 - No arquivo Modelagem está presente: parte do diagrama de classes, os componentes e os diagramas de sequência</br> 
 
 ## Requisitos
